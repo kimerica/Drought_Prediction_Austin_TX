@@ -50,7 +50,7 @@ This project analyzes long-term climate records from Austin’s Camp Mabry to ex
 1. Clone this repository
 2. Install required libraries (`pandas`, `scikit-learn`, `numpy`, `seaborn`, `matplotlib`, `statsmodels`, `jupyter`).
 3. Open the notebook `Climate_Modeling_Final.ipynb` and run cells in order.
-4. Update the data path to your local CSV if needed.
+
 
 ---
 
